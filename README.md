@@ -1,5 +1,9 @@
 # Usage
 ```
+@include "<dir>/*.conf"
+
+...
+
 source s_debug {
     file(
         "debug_in.log"
